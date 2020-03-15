@@ -70,7 +70,7 @@ function change(){
         echo "\n".color("red","-] Message: ".$message);
         }
         gofood:
-        echo "\n".color("yellow","!] Claim voc GOCAR pot 14K");
+        echo "\n".color("yellow","!] Claim voc GOCAR pot 12K");
         echo "\n".color("yellow","!] Please wait");
         for($a=1;$a<=3;$a++){
         echo color("yellow",".");
